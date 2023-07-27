@@ -43,11 +43,11 @@ Follow the steps below to set up the application:
    email address: test@techsolvitservice.com
 
 # Error Messages and Success Confirmations
-=> If there are any errors in the form submission (e.g., empty required fields, incorrect 
+1.  If there are any errors in the form submission (e.g., empty required fields, incorrect 
       email format), appropriate error messages will be displayed to the user. The correctly 
       filled input fields will remain populated after the form submission for easy correction.
 
-=> If the form is successfully submitted, a confirmation message will be shown to the user.
+2.  If the form is successfully submitted, a confirmation message will be shown to the user.
 
 # Submission
 Once you have completed the development and tested the application, create a folder containing all the PHP, HTML, and SQL code files, along with this README file. Compress the folder (e.g., as a ZIP file) and upload it to your Google Drive with sharing settings enabled for viewing or add it to a GitHub repository.
